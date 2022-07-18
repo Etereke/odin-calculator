@@ -54,3 +54,17 @@ body{
     box-sizing: border-box;
     margin: 30px 15px ;
 }
+.last-row{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 40px;
+}
+.last-row button{
+    padding: 20px 40px;
+}
+.bck-btn{
+}
+
+.float-btn{
+}
